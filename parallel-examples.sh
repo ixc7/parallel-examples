@@ -8,9 +8,6 @@
 # https://www.gnu.org/software/parallel/
 # https://yewtu.be/watch?v=qypUdm-IE9c
 
-## --
-
-
 ## 1) Basic examples
 ## --
 
